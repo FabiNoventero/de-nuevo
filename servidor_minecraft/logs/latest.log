@@ -152,3 +152,11 @@ g<--[HERE]
 [21:50:41] [Server thread/INFO]: LocoVES987[/127.45.23.123:58405] logged in with entity id 3181 at ([world]-1036.512499988079, 50.00410092918851, -890.9708816564445)
 [21:50:57] [Server thread/INFO]: LocoVES987 lost connection: Disconnected
 [21:50:57] [Server thread/INFO]: LocoVES987 left the game
+[21:57:18] [User Authenticator #2/INFO]: UUID of player LocoVES987 is 3906ed31-b28a-3c50-9d47-92770df95a58
+[21:57:19] [Server thread/INFO]: LocoVES987 joined the game
+[21:57:19] [Server thread/INFO]: LocoVES987[/127.45.23.123:50633] logged in with entity id 3393 at ([world]11.093793213523702, 119.0, -5.288116280273233)
+[21:58:17] [Server thread/INFO]: LocoVES987 issued server command: /tpa 2507, 71, -693
+[21:58:28] [Server thread/INFO]: LocoVES987 fell from a high place
+[21:59:10] [Server thread/INFO]: LocoVES987 issued server command: /tp LocoVES987 2505.0 71 -692.0
+[21:59:46] [Server thread/INFO]: LocoVES987 lost connection: Disconnected
+[21:59:46] [Server thread/INFO]: LocoVES987 left the game
