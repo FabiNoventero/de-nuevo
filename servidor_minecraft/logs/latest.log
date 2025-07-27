@@ -1,249 +1,145 @@
-[02:17:55] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[02:17:55] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[02:17:55] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:17:55] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[02:17:55] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+[21:36:31] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[21:36:31] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[21:36:31] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:36:32] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[21:36:32] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
  - AdvancedTeleport (6.1.3), ConditionalEvents (4.65.1), SkinsRestorer (15.7.7)
-[02:18:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:18:02] [ServerMain/INFO]: Loaded 1407 recipes
-[02:18:02] [ServerMain/INFO]: Loaded 1520 advancements
-[02:18:02] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[02:18:03] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 426.0ms
-[02:18:03] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[02:18:03] [Server thread/INFO]: Loading properties
-[02:18:03] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[02:18:03] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[02:18:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:18:03] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:18:04] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[02:18:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[02:18:04] [Server thread/INFO]: Default game type: SURVIVAL
-[02:18:04] [Server thread/INFO]: Generating keypair
-[02:18:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:18:04] [Server thread/INFO]: Using epoll channel type
-[02:18:04] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:18:04] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[02:18:04] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.65.1
-[02:18:04] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[02:18:04] [Server thread/INFO]: [AdvancedTeleport] Loading server plugin AdvancedTeleport v6.1.3
-[02:18:04] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for gson
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for gson
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for jar-relocator
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for jar-relocator
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for asm
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for asm
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for asm-commons
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for asm-commons
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for gson
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for gson
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-api
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-api
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-key
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-key
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for examination-api
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for examination-api
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for examination-string
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for examination-string
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-minimessage
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-minimessage
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-nbt
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-nbt
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-plain
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-plain
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-bukkit
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-bukkit
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-gson-legacy-impl
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-gson-legacy-impl
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-gson
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-gson
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-json
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-json
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for option
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for option
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-facet
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-facet
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-api
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-api
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-viaversion
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-viaversion
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-bungeecord
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-bungeecord
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-legacy
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-legacy
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for bstats-bukkit
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for bstats-bukkit
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for bstats-base
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for bstats-base
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for paperlib
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for paperlib
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for ConfigurationMaster-API
-[02:18:05] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for ConfigurationMaster-API
-[02:18:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:18:05] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[02:18:06] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[02:18:06] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[02:18:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:18:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:18:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:18:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:18:06] [Server thread/INFO]: Preparing level "world"
-[02:18:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:18:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:18:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:18:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[02:18:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:18:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:18:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:18:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
-[02:18:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
-[02:18:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[02:18:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:18:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[02:18:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[02:18:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:18:07] [Server thread/INFO]: Preparing spawn area: 0%
-[02:18:07] [Server thread/INFO]: Preparing spawn area: 6%
-[02:18:08] [Server thread/INFO]: Time elapsed: 980 ms
-[02:18:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:18:08] [Server thread/INFO]: Preparing spawn area: 0%
-[02:18:08] [Server thread/INFO]: Time elapsed: 412 ms
-[02:18:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:18:08] [Server thread/INFO]: Preparing spawn area: 0%
-[02:18:08] [Server thread/INFO]: Time elapsed: 151 ms
-[02:18:08] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.65.1
-[02:18:09] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.65.1
-[02:18:09] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[02:18:09] [Server thread/INFO]: [AdvancedTeleport] Enabling AdvancedTeleport v6.1.3
-[02:18:09] [Server thread/INFO]: [AdvancedTeleport] Performing server version check.
-[02:18:09] [Server thread/INFO]: [AdvancedTeleport] Detected major version: 21
-[02:18:09] [Server thread/INFO]: [AdvancedTeleport] Advanced Teleport is now enabling...
-[02:18:09] [Server thread/INFO]: [AdvancedTeleport] Setting up permissions integration with Vault.
-[02:18:09] [Server thread/INFO]: [AdvancedTeleport] Vault is not on the server, skipping.
-[02:18:09] [Server thread/INFO]: [AdvancedTeleport] Loading MainConfig.
-[02:18:09] [Server thread/WARN]: [AdvancedTeleport] Failed to parse payment 100.0 for command tpa! Error message: net/milkbowl/vault/economy/Economy
-[02:18:09] [Server thread/WARN]: [AdvancedTeleport] Failed to parse payment 100.0 for command tpahere! Error message: net/milkbowl/vault/economy/Economy
-[02:18:09] [Server thread/WARN]: [AdvancedTeleport] Failed to parse payment 100.0 for command tpr! Error message: net/milkbowl/vault/economy/Economy
-[02:18:09] [Server thread/WARN]: [AdvancedTeleport] Failed to parse payment 100.0 for command spawn! Error message: net/milkbowl/vault/economy/Economy
-[02:18:09] [Server thread/WARN]: [AdvancedTeleport] Failed to parse payment 100.0 for command warp! Error message: net/milkbowl/vault/economy/Economy
-[02:18:09] [Server thread/WARN]: [AdvancedTeleport] Failed to parse payment 100.0 for command home! Error message: net/milkbowl/vault/economy/Economy
-[02:18:09] [Server thread/WARN]: [AdvancedTeleport] Failed to parse payment 100.0 for command back! Error message: net/milkbowl/vault/economy/Economy
-[02:18:09] [Server thread/INFO]: [AdvancedTeleport] Registered the image warp_default!
-[02:18:09] [Server thread/INFO]: [AdvancedTeleport] Registered the image home_default!
-[02:18:09] [Server thread/INFO]: [AdvancedTeleport] Registered the image spawn_default!
-[02:18:09] [Server thread/INFO]: [spark] Starting background profiler...
-[02:18:10] [Server thread/INFO]: Done preparing level "world" (3.253s)
-[02:18:10] [Server thread/INFO]: Running delayed init tasks
-[02:18:10] [Server thread/INFO]: Done (15.939s)! For help, type "help"
-[02:18:10] [Craft Scheduler Thread - 5 - AdvancedTeleport/INFO]: [AdvancedTeleport] Preparing random teleportation locations. If your server performance or memory suffers, please set `use-rapid-response` to false in the config.yml file.
-[02:18:10] [Craft Scheduler Thread - 5 - AdvancedTeleport/INFO]: [AdvancedTeleport] Plugin is up to date!
-[02:18:35] [User Authenticator #0/INFO]: UUID of player FabiNoventero is 9211fcd9-37f7-383a-8283-f6405f81ee85
-[02:18:35] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
-[02:18:36] [Server thread/INFO]: FabiNoventero joined the game
-[02:18:36] [Server thread/INFO]: FabiNoventero[/127.120.122.146:56295] logged in with entity id 51 at ([world]-19.561165339797885, 119.0, -101.76835064634544)
-[02:22:03] [Server thread/INFO]: FabiNoventero issued server command: /tpa FabiNoventero
-[02:22:16] [Server thread/INFO]: FabiNoventero issued server command: /adtp
-[02:22:22] [Server thread/INFO]: FabiNoventero issued server command: /adtp 2
-[02:22:27] [Server thread/INFO]: FabiNoventero issued server command: /adtp 3
-[02:22:36] [Server thread/INFO]: FabiNoventero issued server command: /home
-[02:22:44] [Server thread/INFO]: FabiNoventero issued server command: /sethome ddfs
-[02:22:48] [Server thread/INFO]: FabiNoventero issued server command: /home ddfs
-[02:23:19] [Server thread/INFO]: FabiNoventero issued server command: /homes
-[02:23:33] [Server thread/INFO]: FabiNoventero issued server command: /sethome 32134
-[02:23:35] [Server thread/INFO]: FabiNoventero issued server command: /homes
-[02:24:54] [Server thread/INFO]: FabiNoventero issued server command: /gamemode creative
-[02:24:54] [Server thread/INFO]: [FabiNoventero: Set own game mode to Creative Mode]
-[02:24:59] [Server thread/INFO]: FabiNoventero issued server command: /kll
-[02:25:03] [Server thread/INFO]: FabiNoventero issued server command: /kill
-[02:25:03] [Server thread/INFO]: FabiNoventero was killed
-[02:25:03] [Server thread/INFO]: [FabiNoventero: Killed FabiNoventero]
-[02:28:45] [User Authenticator #1/INFO]: UUID of player LocoVES987 is 3906ed31-b28a-3c50-9d47-92770df95a58
-[02:28:45] [Server thread/WARN]: [AdvancedTeleport] First-join teleport point  does not exist.
-[02:28:45] [Server thread/INFO]: LocoVES987 joined the game
-[02:28:45] [Server thread/INFO]: LocoVES987[/127.45.23.123:34289] logged in with entity id 2282 at ([world]4.5, 117.0, 1.5)
-[02:29:06] [Server thread/INFO]: FabiNoventero issued server command: /gamemode survival
-[02:29:06] [Server thread/INFO]: [FabiNoventero: Set own game mode to Survival Mode]
-[02:30:34] [Server thread/INFO]: LocoVES987 has made the advancement [Monster Hunter]
-[02:30:48] [Server thread/INFO]: FabiNoventero has made the advancement [Stone Age]
-[02:31:29] [Server thread/INFO]: FabiNoventero has made the advancement [Monster Hunter]
-[02:32:30] [Server thread/INFO]: LocoVES987 has made the advancement [Stone Age]
-[02:32:45] [Server thread/INFO]: LocoVES987 has made the advancement [Getting an Upgrade]
-[02:33:44] [Server thread/INFO]: FabiNoventero has made the advancement [Getting an Upgrade]
-[02:36:20] [Server thread/INFO]: FabiNoventero has made the advancement [Acquire Hardware]
-[02:36:51] [Server thread/INFO]: FabiNoventero has made the advancement [Not Today, Thank You]
-[02:39:04] [Server thread/INFO]: LocoVES987 has made the advancement [Acquire Hardware]
-[02:39:52] [Server thread/INFO]: LocoVES987 has made the advancement [Suit Up]
-[02:40:49] [Server thread/INFO]: LocoVES987 has made the advancement [Isn't It Iron Pick]
-[02:47:35] [Server thread/INFO]: FabiNoventero issued server command: /youtube
-[02:48:13] [Server thread/INFO]: FabiNoventero has made the advancement [Suit Up]
-[02:49:59] [Server thread/INFO]: FabiNoventero has made the advancement [Isn't It Iron Pick]
-[02:51:24] [Server thread/INFO]: LocoVES987 has made the advancement [Not Today, Thank You]
-[02:51:50] [Server thread/INFO]: FabiNoventero has made the advancement [Sweet Dreams]
-[02:52:44] [Server thread/INFO]: LocoVES987 has made the advancement [Sweet Dreams]
-[02:54:02] [Server thread/INFO]: FabiNoventero has made the advancement [Take Aim]
-[02:58:21] [Server thread/INFO]: LocoVES987 has made the advancement [Minecraft: Trial(s) Edition]
-[02:58:23] [Server thread/INFO]: FabiNoventero has made the advancement [Minecraft: Trial(s) Edition]
-[02:59:03] [Server thread/INFO]: FabiNoventero has made the advancement [Diamonds!]
-[02:59:38] [Server thread/INFO]: LocoVES987 has made the advancement [Diamonds!]
-[03:05:58] [Server thread/INFO]: LocoVES987 was shot by Skeleton
-[03:06:17] [Server thread/INFO]: FabiNoventero issued server command: /op LocoVES987
-[03:06:17] [Server thread/INFO]: [FabiNoventero: Made LocoVES987 a server operator]
-[03:06:26] [Server thread/INFO]: LocoVES987 issued server command: /tp
-[03:06:26] [Server thread/INFO]: LocoVES987 was blown up by Creeper
-[03:06:32] [Server thread/INFO]: LocoVES987 issued server command: /tp FabiNoventero
-[03:06:32] [Server thread/INFO]: [LocoVES987: Teleported LocoVES987 to FabiNoventero]
-[03:08:48] [Server thread/INFO]: FabiNoventero has made the advancement [Hot Stuff]
-[03:12:08] [Server thread/INFO]: LocoVES987 has made the advancement [Sneak 100]
-[03:12:35] [Server thread/INFO]: FabiNoventero has made the advancement [Sneak 100]
-[03:15:51] [Server thread/INFO]: LocoVES987 has made the advancement [Cover Me with Diamonds]
-[03:17:03] [Server thread/INFO]: LocoVES987 issued server command: /tp FabiNoventero
-[03:17:03] [Server thread/INFO]: [LocoVES987: Teleported LocoVES987 to FabiNoventero]
-[03:17:18] [Server thread/INFO]: FabiNoventero issued server command: /deop LocoVES987
-[03:17:18] [Server thread/INFO]: [FabiNoventero: Made LocoVES987 no longer a server operator]
-[03:22:56] [Server thread/INFO]: FabiNoventero has made the advancement [Cover Me with Diamonds]
-[03:29:09] [Server thread/INFO]: FabiNoventero has made the advancement [Best Friends Forever]
-[03:29:37] [Server thread/INFO]: LocoVES987 has made the advancement [Best Friends Forever]
-[03:42:18] [Server thread/INFO]: LocoVES987 lost connection: Disconnected
-[03:42:18] [Server thread/INFO]: LocoVES987 left the game
-[03:42:32] [Server thread/INFO]: FabiNoventero lost connection: Disconnected
-[03:42:32] [Server thread/INFO]: FabiNoventero left the game
-[04:01:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
-df<--[HERE]
-[04:02:08] [Server thread/INFO]: Unknown or incomplete command, see below for error
-"DEW"<--[HERE]
-[04:11:37] [Server thread/INFO]: Stopping the server
-[04:11:37] [Server thread/INFO]: Stopping server
-[04:11:37] [Server thread/INFO]: [AdvancedTeleport] Disabling AdvancedTeleport v6.1.3
-[04:11:37] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
-[04:11:37] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.65.1
-[04:11:37] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.65.1
-[04:11:37] [Server thread/INFO]: Saving players
-[04:11:37] [Server thread/INFO]: Saving worlds
-[04:11:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 114 entity chunks, 0 poi chunks in world 'world' in 0.03s
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[04:11:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[04:11:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[04:11:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[04:11:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:11:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:11:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:11:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[04:11:37] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[04:11:37] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[04:11:37] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[04:11:37] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[21:36:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:36:41] [ServerMain/INFO]: Loaded 1407 recipes
+[21:36:41] [ServerMain/INFO]: Loaded 1520 advancements
+[21:36:41] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[21:36:41] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 408.9ms
+[21:36:41] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[21:36:41] [Server thread/INFO]: Loading properties
+[21:36:41] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[21:36:42] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:36:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:36:42] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:36:42] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:36:42] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:36:43] [Server thread/INFO]: Default game type: SURVIVAL
+[21:36:43] [Server thread/INFO]: Generating keypair
+[21:36:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:36:43] [Server thread/INFO]: Using epoll channel type
+[21:36:43] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:36:43] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[21:36:43] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.65.1
+[21:36:43] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
+[21:36:43] [Server thread/INFO]: [AdvancedTeleport] Loading server plugin AdvancedTeleport v6.1.3
+[21:36:43] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for gson
+[21:36:43] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for gson
+[21:36:43] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for jar-relocator
+[21:36:43] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for jar-relocator
+[21:36:43] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for asm
+[21:36:43] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for asm
+[21:36:43] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for asm-commons
+[21:36:43] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for asm-commons
+[21:36:43] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for gson
+[21:36:43] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for gson
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-api
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-api
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-key
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-key
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for examination-api
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for examination-api
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for examination-string
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for examination-string
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-minimessage
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-minimessage
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-nbt
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-nbt
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-plain
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-plain
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-bukkit
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-bukkit
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-gson-legacy-impl
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-gson-legacy-impl
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-gson
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-gson
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-json
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-json
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for option
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for option
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-facet
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-facet
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-api
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-api
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-viaversion
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-viaversion
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-bungeecord
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-bungeecord
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-legacy
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-legacy
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for bstats-bukkit
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for bstats-bukkit
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for bstats-base
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for bstats-base
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for paperlib
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for paperlib
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for ConfigurationMaster-API
+[21:36:44] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for ConfigurationMaster-API
+[21:36:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:36:44] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
+[21:36:45] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[21:36:46] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:36:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:36:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:36:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:36:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:36:46] [Server thread/INFO]: Preparing level "world"
+[21:36:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:36:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:36:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:36:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[21:36:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:36:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:36:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:36:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
+[21:36:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
+[21:36:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[21:36:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:36:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:36:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:36:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:36:47] [Server thread/INFO]: Preparing spawn area: 0%
+[21:36:47] [Server thread/INFO]: Preparing spawn area: 0%
+[21:36:48] [Server thread/INFO]: Preparing spawn area: 8%
+[21:36:48] [Server thread/INFO]: Time elapsed: 1418 ms
+[21:36:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:36:48] [Server thread/INFO]: Preparing spawn area: 0%
+[21:36:48] [Server thread/INFO]: Time elapsed: 419 ms
+[21:36:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:36:48] [Server thread/INFO]: Preparing spawn area: 0%
+[21:36:49] [Server thread/INFO]: Time elapsed: 327 ms
+[21:36:49] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.65.1
+[21:36:49] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.65.1
+[21:36:49] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[21:36:49] [Server thread/INFO]: [AdvancedTeleport] Enabling AdvancedTeleport v6.1.3
+[21:36:49] [Server thread/INFO]: [AdvancedTeleport] Performing server version check.
+[21:36:49] [Server thread/INFO]: [AdvancedTeleport] Detected major version: 21
+[21:36:49] [Server thread/INFO]: [AdvancedTeleport] Advanced Teleport is now enabling...
+[21:36:49] [Server thread/INFO]: [AdvancedTeleport] Setting up permissions integration with Vault.
+[21:36:49] [Server thread/INFO]: [AdvancedTeleport] Vault is not on the server, skipping.
+[21:36:49] [Server thread/INFO]: [AdvancedTeleport] Loading MainConfig.
+[21:36:49] [Server thread/WARN]: [AdvancedTeleport] Failed to parse payment 100.0 for command tpa! Error message: net/milkbowl/vault/economy/Economy
+[21:36:49] [Server thread/WARN]: [AdvancedTeleport] Failed to parse payment 100.0 for command tpahere! Error message: net/milkbowl/vault/economy/Economy
+[21:36:49] [Server thread/WARN]: [AdvancedTeleport] Failed to parse payment 100.0 for command tpr! Error message: net/milkbowl/vault/economy/Economy
+[21:36:49] [Server thread/WARN]: [AdvancedTeleport] Failed to parse payment 100.0 for command spawn! Error message: net/milkbowl/vault/economy/Economy
+[21:36:49] [Server thread/WARN]: [AdvancedTeleport] Failed to parse payment 100.0 for command warp! Error message: net/milkbowl/vault/economy/Economy
+[21:36:49] [Server thread/WARN]: [AdvancedTeleport] Failed to parse payment 100.0 for command home! Error message: net/milkbowl/vault/economy/Economy
+[21:36:49] [Server thread/WARN]: [AdvancedTeleport] Failed to parse payment 100.0 for command back! Error message: net/milkbowl/vault/economy/Economy
+[21:36:50] [Server thread/INFO]: [AdvancedTeleport] Registered the image warp_default!
+[21:36:50] [Server thread/INFO]: [AdvancedTeleport] Registered the image home_default!
+[21:36:50] [Server thread/INFO]: [AdvancedTeleport] Registered the image spawn_default!
+[21:36:50] [Server thread/INFO]: [spark] Starting background profiler...
+[21:36:50] [Server thread/INFO]: Done preparing level "world" (4.546s)
+[21:36:50] [Server thread/INFO]: Running delayed init tasks
+[21:36:50] [Server thread/INFO]: Done (21.150s)! For help, type "help"
+[21:36:50] [Craft Scheduler Thread - 7 - AdvancedTeleport/INFO]: [AdvancedTeleport] Preparing random teleportation locations. If your server performance or memory suffers, please set `use-rapid-response` to false in the config.yml file.
+[21:36:51] [Craft Scheduler Thread - 7 - AdvancedTeleport/INFO]: [AdvancedTeleport] Plugin is up to date!
+[21:37:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
+g<--[HERE]
+[21:38:16] [User Authenticator #0/INFO]: UUID of player LocoVES987 is 3906ed31-b28a-3c50-9d47-92770df95a58
+[21:38:16] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
+[21:38:18] [Server thread/INFO]: LocoVES987 joined the game
+[21:38:18] [Server thread/INFO]: LocoVES987[/127.45.23.123:49517] logged in with entity id 35 at ([world]-726.5124999880791, 50.0, -664.5264741221828)
