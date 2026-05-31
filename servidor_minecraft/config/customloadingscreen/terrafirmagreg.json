@@ -1,0 +1,153 @@
+{
+  "renders": [
+    {
+      "image": {
+        "parent": "builtin/slideshow",
+        "image": "config:images/image_#.png",
+        "frame": "slideshow_frame(transition_duration, frame_count)",
+        "position_type": "CENTER",
+        "offset_pos": "CENTER",
+        "colour": "0xFFFFFFFF",
+        "position": {
+          "x": "0",
+          "y": "0",
+          "width": "screen_width + 1",
+          "height": "screen_height + 1"
+        },
+        "texture": {
+          "x": "0",
+          "y": "0",
+          "width": "1",
+          "height": "1"
+        }
+      }
+    },
+    {
+      "image": {
+        "parent": "builtin/slideshow",
+        "image": "config:images/image_#.png",
+        "frame": "slideshow_frame(0, frame_count)",
+        "position_type": "CENTER",
+        "offset_pos": "CENTER",
+        "colour": "0xFFFFFF | (0xFF000000 & (0x01000000 * floor(0xFF * min(1, ((transition_duration <= 0.01) ? (0) : (time/transition_duration)) % image_interval))))",
+        "position": {
+          "x": "0",
+          "y": "0",
+          "width": "screen_width + 1",
+          "height": "screen_height + 1"
+        },
+        "texture": {
+          "x": "0",
+          "y": "0",
+          "width": "1",
+          "height": "1"
+        }
+      }
+    },
+    {
+      "image": {
+        "parent": "builtin/image",
+        "image": "tfg:textures/gui/logo.png",
+        "position_type": "CENTER",
+        "offset_pos": "CENTER",
+        "position": {
+          "x": "0",
+          "y": "0",
+          "width": "100",
+          "height": "90"
+        }
+      }
+    },
+    {
+      "image": {
+        "parent": "sample/bottom_bar",
+        "position_type": "CENTER",
+        "offset_pos": "BOTTOM_LEFT",
+        "colour": "0xFFFFFFFF",
+        "position": {
+          "width": "256",
+          "height": "1",
+          "x": "-128",
+          "y": "78"
+        }
+      }
+    },
+    {
+      "image": {
+        "parent": "sample/bottom_bar",
+        "position_type": "CENTER",
+        "offset_pos": "BOTTOM_LEFT",
+        "colour": "0xFFFFFFFF",
+        "position": {
+          "width": "256",
+          "height": "1",
+          "x": "-128",
+          "y": "87"
+        }
+      }
+    },
+    {
+      "image": {
+        "parent": "sample/bottom_bar",
+        "position_type": "CENTER",
+        "offset_pos": "BOTTOM_LEFT",
+        "colour": "0xFFFFFFFF",
+        "position": {
+          "width": "252 * percentage",
+          "height": "6",
+          "x": "-126",
+          "y": "85"
+        }
+      }
+    },
+    {
+      "image": {
+        "parent": "sample/bottom_bar",
+        "position_type": "CENTER",
+        "offset_pos": "BOTTOM_LEFT",
+        "colour": "0xFFFFFFFF",
+        "position": {
+          "width": "1",
+          "height": "10",
+          "x": "128",
+          "y": "87"
+        }
+      }
+    },
+    {
+      "image": {
+        "parent": "sample/bottom_bar",
+        "position_type": "CENTER",
+        "offset_pos": "BOTTOM_LEFT",
+        "colour": "0xFFFFFFFF",
+        "position": {
+          "width": "1",
+          "height": "10",
+          "x": "-128",
+          "y": "87"
+        }
+      }
+    }
+  ],
+  "functions": {
+    "slideshow_frame_inner(float timeSub)": "floor((time - timeSub) / image_interval)",
+    "slideshow_frame(float timeSub, int count)": "random_slide_order ? ( random_int( slideshow_seed, slideshow_frame_inner(timeSub), count ) ) : slideshow_frame_inner(timeSub)"
+  },
+  "constants": {
+    "image_interval": 10.0,
+    "transition_duration": 1,
+    "tip_interval": 8.0,
+    "random_slide_order": false,
+    "tip_seed": "generate_seed()",
+    "slideshow_seed": "generate_seed()"
+  },
+  "variables": {
+    "showFourth": "forge_progress_bar_count() > 3",
+    "showThird": "forge_progress_bar_count() > 2",
+    "showSecond": "forge_progress_bar_count() > 1",
+    "memPercent": "((floor(memory_used() * 100) + 0.0) / (floor(memory_max() * 100) + 0.0))",
+    "memFloorPercent": "floor(memPercent * 100)"
+  },
+  "factories": [],
+  "actions": []
+}

@@ -1,0 +1,28 @@
+{
+  "packName": "TerraFirmaGreg-Vintage",
+  "packId": "terrafirmagreg",
+  "version": "4.5.12",
+  "debug": false,
+  "classes": [
+    "classes/"
+  ],
+  "loaders": {
+    "preInit": [
+      "preInit/"
+    ],
+    "init": [
+      "init/"
+    ],
+    "postInit": [
+      "postInit/oredict/",
+      "postInit/"
+    ]
+  },
+  "packmode": {
+    "values": [
+      "normal"
+    ],
+    "default": "normal",
+    "integratePackmodeMod": false
+  }
+}

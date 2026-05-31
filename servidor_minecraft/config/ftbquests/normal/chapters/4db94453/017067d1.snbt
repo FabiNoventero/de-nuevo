@@ -1,0 +1,14 @@
+{
+	x: -2.75d,
+	y: 8.75d,
+	dependencies: [
+		"7daba4fb"
+	],
+	tasks: [{
+		uid: "529969a0",
+		type: "item",
+		items: [{
+			item: "tfg:meta_item 1 50"
+		}]
+	}]
+}

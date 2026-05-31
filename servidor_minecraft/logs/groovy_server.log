@@ -1,0 +1,171 @@
+============  GroovyLog  ====  31.05.2026  ============
+GroovyScript version: 1.2.0-hotfix1
+[02:18:50] [SERVER/INFO] [terrafirmagreg]: Running scripts in loader 'preInit'
+[02:19:18] [SERVER/INFO] [terrafirmagreg]: Running scripts in loader 'init'
+[02:19:34] [SERVER/INFO] [terrafirmagreg]: Running scripts in loader 'postInit'
+[02:19:34] [SERVER/INFO] [terrafirmagreg]:  - running postInit.oredict.appliedenergistics2
+[02:19:34] [SERVER/INFO] [terrafirmagreg]:  - running postInit.oredict.chisel
+[02:19:34] [SERVER/INFO] [terrafirmagreg]:  - running postInit.oredict.extraplanets
+[02:19:34] [SERVER/INFO] [terrafirmagreg]:  - running postInit.oredict.firmalife
+[02:19:34] [SERVER/INFO] [terrafirmagreg]:  - running postInit.oredict.galacticraft
+[02:19:34] [SERVER/INFO] [terrafirmagreg]:  - running postInit.oredict.gregtech
+[02:19:34] [SERVER/INFO] [terrafirmagreg]:  - running postInit.oredict.minecraft
+[02:19:34] [SERVER/INFO] [terrafirmagreg]:  - running postInit.oredict.projectred
+[02:19:34] [SERVER/INFO] [terrafirmagreg]:  - running postInit.oredict.tfc
+[02:19:34] [SERVER/INFO] [terrafirmagreg]:  - running postInit.oredict.tfcflorae
+[02:19:34] [SERVER/INFO] [terrafirmagreg]:  - running postInit.oredict.tfctech
+[02:19:34] [SERVER/INFO] [terrafirmagreg]:  - running postInit.ae2fc.jei
+[02:19:35] [SERVER/INFO] [terrafirmagreg]:  - running postInit.ae2fc.recipes
+[02:19:35] [SERVER/INFO] [terrafirmagreg]:  - running postInit.ae2stuff.jei
+[02:19:35] [SERVER/INFO] [terrafirmagreg]:  - running postInit.appliedenergistics2.jei
+[02:19:35] [SERVER/INFO] [terrafirmagreg]:  - running postInit.appliedenergistics2.recipes
+[02:19:35] [SERVER/INFO] [terrafirmagreg]:  - running postInit.architecturecraft.jei
+[02:19:35] [SERVER/INFO] [terrafirmagreg]:  - running postInit.architecturecraft.recipes
+[02:19:35] [SERVER/INFO] [terrafirmagreg]:  - running postInit.catwalks.jei
+[02:19:35] [SERVER/INFO] [terrafirmagreg]:  - running postInit.catwalks.recipes
+[02:19:35] [SERVER/INFO] [terrafirmagreg]:  - running postInit.cellars.jei
+[02:19:35] [SERVER/INFO] [terrafirmagreg]:  - running postInit.cellars.recipes
+[02:19:35] [SERVER/INFO] [terrafirmagreg]:  - running postInit.chisel.jei
+[02:19:35] [SERVER/INFO] [terrafirmagreg]:  - running postInit.chisel.recipes
+[02:19:35] [SERVER/INFO] [terrafirmagreg]:  - running postInit.enderstorage.jei
+[02:19:35] [SERVER/INFO] [terrafirmagreg]:  - running postInit.enderstorage.recipes
+[02:19:35] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.jei
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.machines.mars_rover
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.machines.venus_rover
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.ceres
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.eris
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.jupiter.callisto
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.jupiter.europa
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.jupiter.ganymede
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.jupiter.io
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.jupiter.jupiter
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.kepler-22b
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.mars.deimos
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.mars.phobos
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.mercury
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.neptune.neptune
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.neptune.triton
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.pluto
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.saturn.iapetus
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.saturn.rhea
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.saturn.saturn
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.saturn.titan
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.uranus.oberon
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.uranus.titania
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.planets.uranus.uranus
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.recipes
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.rockets.tier_10
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.rockets.tier_10e
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.rockets.tier_4
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.rockets.tier_5
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.rockets.tier_6
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.rockets.tier_7
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.rockets.tier_8
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.extraplanets.rockets.tier_9
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.firmalife.jei
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.firmalife.recipes
+[02:19:36] [SERVER/INFO] [terrafirmagreg]:  - running postInit.ftbquests.jei
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.galacticraft.jei
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.galacticraft.loot
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.galacticraft.machines.astro_miner
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.galacticraft.machines.cargo_rocket
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.galacticraft.machines.moon_buggy
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.galacticraft.planets.asteroids
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.galacticraft.planets.mars.mars
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.galacticraft.planets.moon
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.galacticraft.planets.venus
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.galacticraft.recipes
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.galacticraft.rockets.tier_1
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.galacticraft.rockets.tier_2
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.galacticraft.rockets.tier_3
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.galacticresearch.jei
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.galacticresearch.recipes
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.gregtech.jei
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.gregtech.multiblocks.Sawmill
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.gregtech.multiblocks.star_forge
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.gregtech.recipes
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.hgp.jei
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.hgp.recipes
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.horsepower.jei
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.microblockcbe.jei
+[02:19:37] [SERVER/INFO] [terrafirmagreg]:  - running postInit.minecraft.jei
+[02:19:38] [SERVER/INFO] [terrafirmagreg]:  - running postInit.minecraft.recipes
+[02:19:38] [SERVER/INFO] [terrafirmagreg]:  - running postInit.movingelevators.jei
+[02:19:38] [SERVER/INFO] [terrafirmagreg]:  - running postInit.movingelevators.recipes
+[02:19:38] [SERVER/INFO] [terrafirmagreg]:  - running postInit.nae2.jei
+[02:19:38] [SERVER/INFO] [terrafirmagreg]:  - running postInit.nae2.recipes
+[02:19:38] [SERVER/INFO] [terrafirmagreg]:  - running postInit.opencomputers.jei
+[02:19:38] [SERVER/INFO] [terrafirmagreg]:  - running postInit.opencomputers.recipes
+[02:19:38] [SERVER/INFO] [terrafirmagreg]:  - running postInit.projectred.jei
+[02:19:38] [SERVER/INFO] [terrafirmagreg]:  - running postInit.projectred.recipes
+[02:19:38] [SERVER/INFO] [terrafirmagreg]:  - running postInit.tfc.FixTFCCapabilityRecipeBug
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap macerator and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@33271b72[inputs=[1xtile.clayHardened@0],outputs=[4xmetaitem@2063],chancedOutputs=[],fluidInputs=[],fluidOutputs=[],duration=15,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@7a46ebf9[inputs=[1xtile.clayHardened@0],outputs=[4xmetaitem@2063],chancedOutputs=[],fluidInputs=[],fluidOutputs=[],duration=60,EUt=2,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap chemical_bath and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@5994482e[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@0],chancedOutputs=[],fluidInputs=[18xfluid.dye_white],fluidOutputs=[],duration=400,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@317bc387[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@0],chancedOutputs=[],fluidInputs=[18xfluid.dye_white],fluidOutputs=[],duration=20,EUt=7,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap chemical_bath and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@194eac[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@1],chancedOutputs=[],fluidInputs=[18xfluid.dye_orange],fluidOutputs=[],duration=400,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@32a3c71e[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@1],chancedOutputs=[],fluidInputs=[18xfluid.dye_orange],fluidOutputs=[],duration=20,EUt=7,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap chemical_bath and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@527b515[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@2],chancedOutputs=[],fluidInputs=[18xfluid.dye_magenta],fluidOutputs=[],duration=400,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@7a316b02[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@2],chancedOutputs=[],fluidInputs=[18xfluid.dye_magenta],fluidOutputs=[],duration=20,EUt=7,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap chemical_bath and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@6c8ec0ce[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@3],chancedOutputs=[],fluidInputs=[18xfluid.dye_light_blue],fluidOutputs=[],duration=400,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@1c0a590a[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@3],chancedOutputs=[],fluidInputs=[18xfluid.dye_light_blue],fluidOutputs=[],duration=20,EUt=7,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap chemical_bath and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@7e2adc84[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@4],chancedOutputs=[],fluidInputs=[18xfluid.dye_yellow],fluidOutputs=[],duration=400,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@3fed04b1[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@4],chancedOutputs=[],fluidInputs=[18xfluid.dye_yellow],fluidOutputs=[],duration=20,EUt=7,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap chemical_bath and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@44b7998[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@5],chancedOutputs=[],fluidInputs=[18xfluid.dye_lime],fluidOutputs=[],duration=400,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@70e68378[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@5],chancedOutputs=[],fluidInputs=[18xfluid.dye_lime],fluidOutputs=[],duration=20,EUt=7,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap chemical_bath and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@1124e22[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@6],chancedOutputs=[],fluidInputs=[18xfluid.dye_pink],fluidOutputs=[],duration=400,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@4845cda7[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@6],chancedOutputs=[],fluidInputs=[18xfluid.dye_pink],fluidOutputs=[],duration=20,EUt=7,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap chemical_bath and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@74df4001[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@7],chancedOutputs=[],fluidInputs=[18xfluid.dye_gray],fluidOutputs=[],duration=400,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@8f0571d[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@7],chancedOutputs=[],fluidInputs=[18xfluid.dye_gray],fluidOutputs=[],duration=20,EUt=7,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap chemical_bath and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@ee102f0[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@8],chancedOutputs=[],fluidInputs=[18xfluid.dye_light_gray],fluidOutputs=[],duration=400,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@10402671[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@8],chancedOutputs=[],fluidInputs=[18xfluid.dye_light_gray],fluidOutputs=[],duration=20,EUt=7,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap chemical_bath and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@3d4f075[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@9],chancedOutputs=[],fluidInputs=[18xfluid.dye_cyan],fluidOutputs=[],duration=400,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@6d5bdce9[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@9],chancedOutputs=[],fluidInputs=[18xfluid.dye_cyan],fluidOutputs=[],duration=20,EUt=7,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap chemical_bath and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@7c6b3ec7[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@10],chancedOutputs=[],fluidInputs=[18xfluid.dye_purple],fluidOutputs=[],duration=400,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@3381bd29[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@10],chancedOutputs=[],fluidInputs=[18xfluid.dye_purple],fluidOutputs=[],duration=20,EUt=7,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap chemical_bath and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@3ee40499[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@11],chancedOutputs=[],fluidInputs=[18xfluid.dye_blue],fluidOutputs=[],duration=400,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@7f7d33b2[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@11],chancedOutputs=[],fluidInputs=[18xfluid.dye_blue],fluidOutputs=[],duration=20,EUt=7,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap chemical_bath and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@28639651[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@12],chancedOutputs=[],fluidInputs=[18xfluid.dye_brown],fluidOutputs=[],duration=400,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@3a24ae68[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@12],chancedOutputs=[],fluidInputs=[18xfluid.dye_brown],fluidOutputs=[],duration=20,EUt=7,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap chemical_bath and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@28991edd[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@13],chancedOutputs=[],fluidInputs=[18xfluid.dye_green],fluidOutputs=[],duration=400,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@1aca9254[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@13],chancedOutputs=[],fluidInputs=[18xfluid.dye_green],fluidOutputs=[],duration=20,EUt=7,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap chemical_bath and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@435c1d3c[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@14],chancedOutputs=[],fluidInputs=[18xfluid.dye_red],fluidOutputs=[],duration=400,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@7eb755b7[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@14],chancedOutputs=[],fluidInputs=[18xfluid.dye_red],fluidOutputs=[],duration=20,EUt=7,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap chemical_bath and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@3a7db7df[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@15],chancedOutputs=[],fluidInputs=[18xfluid.dye_black],fluidOutputs=[],duration=400,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@4a8184cb[inputs=[1xtile.clayHardened@0],outputs=[1xtile.clayHardenedStained@15],chancedOutputs=[],fluidInputs=[18xfluid.dye_black],fluidOutputs=[],duration=20,EUt=7,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap macerator and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@45e73e7b[inputs=[1xtile.clay@0],outputs=[4xmetaitem@2063],chancedOutputs=[],fluidInputs=[],fluidOutputs=[],duration=15,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@2f18886b[inputs=[1xtile.clay@0],outputs=[4xmetaitem@2063],chancedOutputs=[],fluidInputs=[],fluidOutputs=[],duration=60,EUt=2,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Recipe duplicate or conflict found in RecipeMap extractor and was not added. See next lines for details
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Attempted to add Recipe: gregtech.api.recipes.Recipe@240e34d8[inputs=[1xtile.clay@0],outputs=[4xitem.clay@0],chancedOutputs=[],fluidInputs=[],fluidOutputs=[],duration=300,EUt=3,hidden=false,CTRecipe=false,GSRecipe=true]
+[02:19:38] [SERVER/WARN] [postInit.tfc.FixTFCCapabilityRecipeBug]: Which conflicts with: gregtech.api.recipes.Recipe@336034bd[inputs=[1xtile.clay@0],outputs=[4xitem.clay@0],chancedOutputs=[],fluidInputs=[],fluidOutputs=[],duration=300,EUt=2,hidden=false,CTRecipe=false,GSRecipe=false]
+[02:19:38] [SERVER/INFO] [terrafirmagreg]:  - running postInit.tfc.jei
+[02:19:39] [SERVER/INFO] [terrafirmagreg]:  - running postInit.tfc.loot
+[02:19:39] [SERVER/INFO] [terrafirmagreg]:  - running postInit.tfc.recipes
+[02:19:40] [SERVER/INFO] [terrafirmagreg]:  - running postInit.tfcflorae.jei
+[02:19:40] [SERVER/INFO] [terrafirmagreg]:  - running postInit.tfcflorae.recipes
+[02:19:40] [SERVER/INFO] [terrafirmagreg]:  - running postInit.tfctech.jei
+[02:19:40] [SERVER/INFO] [terrafirmagreg]:  - running postInit.tfctech.recipes
+[02:19:40] [SERVER/INFO] [terrafirmagreg]:  - running postInit.tfcthings.jei
+[02:19:40] [SERVER/INFO] [terrafirmagreg]:  - running postInit.tfcthings.recipes
+[02:19:40] [SERVER/INFO] [terrafirmagreg]:  - running postInit.theoneprobe.jei
+[02:19:40] [SERVER/INFO] [terrafirmagreg]:  - running postInit.toolbelt.recipes
+[02:19:40] [SERVER/INFO] [terrafirmagreg]:  - running postInit.travelersbackpack.jei
+[02:19:40] [SERVER/INFO] [terrafirmagreg]:  - running postInit.travelersbackpack.recipes

@@ -1,0 +1,872 @@
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[989:crafttweaker]: gregtech/Globals.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[980:crafttweaker]: firmalife/jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[980:crafttweaker]: gregtech/jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[980:crafttweaker]: horsepower/jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[980:crafttweaker]: ItemArray.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[980:crafttweaker]: tfc/jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[980:crafttweaker]: tfcflorae/jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[980:crafttweaker]: tfctech/jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[980:crafttweaker]: tfcthings/jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[960:crafttweaker]: TFC-Registries.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: firmalife/recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: gregtech/recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: horsepower/recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: tfc/recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: tfcflorae/recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: tfctech/recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: tfcthings/recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 3ms
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [gregtech]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [gregtech]
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[989:crafttweaker]: gregtech/Globals.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[980:crafttweaker]: firmalife/jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[980:crafttweaker]: gregtech/jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[980:crafttweaker]: horsepower/jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[980:crafttweaker]: ItemArray.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[980:crafttweaker]: tfc/jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[980:crafttweaker]: tfcflorae/jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[980:crafttweaker]: tfctech/jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[980:crafttweaker]: tfcthings/jei.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[960:crafttweaker]: TFC-Registries.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[0:crafttweaker]: firmalife/recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[0:crafttweaker]: gregtech/recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[0:crafttweaker]: horsepower/recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[0:crafttweaker]: tfc/recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[0:crafttweaker]: tfcflorae/recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[0:crafttweaker]: tfctech/recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [gregtech | SIDE_SERVER]: Skipping file {[0:crafttweaker]: tfcthings/recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 0ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [gregtech], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[989:crafttweaker]: gregtech/Globals.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[980:crafttweaker]: firmalife/jei.zs}
+[INITIALIZATION][SERVER][INFO] Removing Oven recipe for output Cooked Pizza Dough
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe firmalife:treat_lumber
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe firmalife:greenhouse_roof
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe firmalife:greenhouse_wall
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe firmalife:greenhouse_door
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[980:crafttweaker]: gregtech/jei.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[980:crafttweaker]: horsepower/jei.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[980:crafttweaker]: ItemArray.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[980:crafttweaker]: tfc/jei.zs}
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:diamonds
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:sylvite
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:malachite_powder_from_small
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:malachite_powder_from_poor
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:malachite_powder_from_normal
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:malachite_powder_from_rich
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:limonite_powder_from_small
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:limonite_powder_from_poor
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:limonite_powder_from_normal
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:limonite_powder_from_rich
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:gypsum
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:hematite_powder_from_small
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:hematite_powder_from_poor
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:hematite_powder_from_normal
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:hematite_powder_from_rich
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:cinnabar
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:cryolite
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:borax
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:flux
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfc:double_ingot_pig_iron
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfc:trapdoor_pig_iron
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfc:ingot_high_carbon_steel
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfc:ingot_high_carbon_black_steel
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfc:ingot_high_carbon_red_steel
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfc:ingot_high_carbon_blue_steel
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfc:ingot_steel
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfc:ingot_black_steel
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfc:ingot_red_steel
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfc:ingot_blue_steel
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:kaolinite_powder
+[INITIALIZATION][SERVER][INFO] Removing heating recipe tfcflorae:kaolinite_clay
+[INITIALIZATION][SERVER][INFO] Removing heating recipe tfcflorae:burnt_kaolinite_clay
+[INITIALIZATION][SERVER][INFO] Removing Oven recipe for output Kaolinite Powder
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:graphite_powder
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:sulfur
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfcflorae:sulphur_powder_shroom
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:lapis_lazuli
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:charcoal
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:rocksalt
+[INITIALIZATION][SERVER][INFO] Removing quern recipe firmalife:halite
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfc:saltpeter
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe tfc:rum
+[INITIALIZATION][SERVER][INFO] Removing stone knapping recipe tfc:axe_head
+[INITIALIZATION][SERVER][INFO] Removing stone knapping recipe tfc:shovel_head
+[INITIALIZATION][SERVER][INFO] Removing stone knapping recipe tfc:hoe_head
+[INITIALIZATION][SERVER][INFO] Removing stone knapping recipe tfc:knife_head
+[INITIALIZATION][SERVER][INFO] Removing stone knapping recipe tfc:javelin_head
+[INITIALIZATION][SERVER][INFO] Removing stone knapping recipe tfc:hammer_head
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[980:crafttweaker]: tfcflorae/jei.zs}
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe tfcflorae:pear_wine
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe tfcflorae:pear_brandy
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe tfcflorae:papaya_wine
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe tfcflorae:papaya_brandy
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe tfcflorae:orange_wine
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe tfcflorae:earthenware_clay_wash
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe tfcflorae:kaolinite_clay_wash
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe tfcflorae:stoneware_clay_wash
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe tfc:olive_oil
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe tfcflorae:olive_oil_sisal
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe tfcflorae:olive_oil_silk
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe tfcflorae:olive_oil_cotton
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe tfcflorae:olive_oil_linen
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe tfcflorae:olive_oil_hemp
+[INITIALIZATION][SERVER][INFO] Removing knapping recipe tfcflorae:flint_javelin_head
+[INITIALIZATION][SERVER][INFO] Removing knapping recipe tfcflorae:flint_hammer_head
+[INITIALIZATION][SERVER][INFO] Removing knapping recipe tfcflorae:flint_hoe_head_2
+[INITIALIZATION][SERVER][INFO] Removing knapping recipe tfcflorae:flint_hoe_head_3
+[INITIALIZATION][SERVER][INFO] Removing knapping recipe tfcflorae:flint_axe_head
+[INITIALIZATION][SERVER][INFO] Removing knapping recipe tfcflorae:flint_shovel_head
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[980:crafttweaker]: tfctech/jei.zs}
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:bismuth_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:bismuth_wire_2
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:bismuth_wire_3
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:bismuth_wire_4
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:bismuth_bronze_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:bismuth_bronze_wire_2
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:bismuth_bronze_wire_3
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:bismuth_bronze_wire_4
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:black_bronze_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:black_bronze_wire_2
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:black_bronze_wire_3
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:black_bronze_wire_4
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:brass_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:brass_wire_2
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:brass_wire_3
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:brass_wire_4
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:bronze_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:bronze_wire_2
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:bronze_wire_3
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:bronze_wire_4
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:rose_gold_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:rose_gold_wire_2
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:rose_gold_wire_3
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:rose_gold_wire_4
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:wrought_iron_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:wrought_iron_wire_2
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:wrought_iron_wire_3
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:wrought_iron_wire_4
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:pig_iron_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:pig_iron_wire_2
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:pig_iron_wire_3
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:pig_iron_wire_4
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:blue_steel_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:blue_steel_wire_2
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:blue_steel_wire_3
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:blue_steel_wire_4
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:red_steel_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:red_steel_wire_2
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:red_steel_wire_3
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:red_steel_wire_4
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:zinc_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:zinc_wire_2
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:zinc_wire_3
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:zinc_wire_4
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:sterling_silver_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:sterling_silver_wire_2
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:sterling_silver_wire_3
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:sterling_silver_wire_4
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:copper_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:gold_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:lead_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:nickel_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:silver_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:tin_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:steel_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:platinum_wire_1
+[INITIALIZATION][SERVER][INFO] Removing wire drawing recipe tfctech:black_steel_wire_1
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:bismuth_wire
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:bismuth_bronze_wire
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:black_bronze_wire
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:brass_wire
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:bronze_wire
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:rose_gold_wire
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:zinc_wire
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:sterling_silver_wire
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:wrought_iron_wire
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:pig_iron_wire
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:blue_steel_wire
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:red_steel_wire
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:iron_draw_plate
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:steel_draw_plate
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:black_steel_draw_plate
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:wrought_iron_blowpipe
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:steel_blowpipe
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:black_steel_blowpipe
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:blue_steel_blowpipe
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:red_steel_blowpipe
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:iron_tongs
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:iron_bowl_mount
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:bismuth_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:bismuth_bronze_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:black_bronze_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:brass_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:bronze_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:copper_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:gold_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:lead_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:nickel_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:rose_gold_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:silver_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:tin_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:zinc_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:sterling_silver_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:wrought_iron_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:pig_iron_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:steel_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:platinum_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:black_steel_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:blue_steel_long_rod
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfctech:red_steel_long_rod
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:sterling_silver_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:tin_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:silver_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:rose_gold_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:lead_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:gold_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:copper_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:brass_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:bismuth_bronze_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:steel_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:wrought_iron_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:zinc_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:nickel_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:bronze_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:black_bronze_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:bismuth_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:black_steel_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:blue_steel_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:platinum_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:pig_iron_gear
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfctech:red_steel_gear
+[INITIALIZATION][SERVER][INFO] Removing barrel recipe tfctech:rubber_mix
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[980:crafttweaker]: tfcthings/jei.zs}
+[INITIALIZATION][SERVER][INFO] Removing clay knapping recipe tfcthings:prospectors_hammer_clay_mold
+[INITIALIZATION][SERVER][INFO] Removing heating recipe tfcthings:prospectors_hammer_clay_mold_fired
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:pig_iron_carrot
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:black_steel_carrot
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:blue_steel_carrot
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:red_steel_carrot
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:metal_bracing
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:metal_bracing_steel
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:prospectors_hammer_head_bismuth_bronze
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:prospectors_hammer_head_black_bronze
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:prospectors_hammer_head_bronze
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:prospectors_hammer_head_copper
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:prospectors_hammer_head_wrought_iron
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:prospectors_hammer_head_steel
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:prospectors_hammer_head_black_steel
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:prospectors_hammer_head_blue_steel
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:prospectors_hammer_head_red_steel
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfcthings:grindstone_steel
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:sling_ammo_steel
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:sling_ammo_iron
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfcthings:honing_steel_diamond
+[INITIALIZATION][SERVER][INFO] Removing welding recipe tfcthings:honing_steel_head_diamond
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:honing_steel_head
+[INITIALIZATION][SERVER][INFO] Removing quern recipe tfcthings:whetstone
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[960:crafttweaker]: TFC-Registries.zs}
+[INITIALIZATION][SERVER][INFO] Registered fuel stats
+[INITIALIZATION][SERVER][INFO] Registered fuel stats
+[INITIALIZATION][SERVER][INFO] Registered fuel stats
+[INITIALIZATION][SERVER][INFO] Registered fuel stats
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:25>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:25>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:25>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:25>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:347>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:347>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:347>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:347>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:347>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:327>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:327>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:327>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:327>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:327>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:265>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:265>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:265>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:265>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:265>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:348>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:348>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:348>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:348>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:348>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:385>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:385>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:385>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:385>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:385>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:112>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:112>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:112>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:112>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:263>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:263>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:263>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:263>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:263>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:264>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:264>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:264>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:264>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:264>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:51>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:51>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:51>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:51>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:51>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:306>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:306>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:306>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:306>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:306>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:292>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:292>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:292>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:292>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:292>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:261>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:261>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:261>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:261>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:261>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:337>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:337>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:337>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:337>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:337>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:255>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:255>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:255>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:255>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:255>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:69>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:69>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:69>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:69>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:280>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:280>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:280>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:280>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:280>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:380>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:380>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:380>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:380>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:380>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:122>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:122>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:322>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:322>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:322>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:322>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:322>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:55>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:55>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:55>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:55>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:279>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust:279>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:279>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:279>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:279>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:41>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:41>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:41>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:41>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:11>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:11>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:11>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:11>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_ore_chunk:100>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_impure:100>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_small:100>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <gregtech:meta_dust_tiny:100>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <minecraft:iron_bars>
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <minecraft:bucket>
+[INITIALIZATION][SERVER][INFO] Registered food stats for <minecraft:mushroom_stew>
+[INITIALIZATION][SERVER][INFO] Registered food stats for <minecraft:rabbit_stew>
+[INITIALIZATION][SERVER][INFO] Registered food stats for <minecraft:beetroot_soup>
+[INITIALIZATION][SERVER][INFO] Registered armor stats for <minecraft:leather_helmet>
+[INITIALIZATION][SERVER][INFO] Registered armor stats for <minecraft:leather_chestplate>
+[INITIALIZATION][SERVER][INFO] Registered armor stats for <minecraft:leather_leggings>
+[INITIALIZATION][SERVER][INFO] Registered armor stats for <minecraft:leather_boots>
+[INITIALIZATION][SERVER][INFO] Setting max stack size of  Empty Canister to 16
+[INITIALIZATION][SERVER][INFO] Registered food stats for <galacticraftcore:food>
+[INITIALIZATION][SERVER][INFO] Registered food stats for <galacticraftcore:food:1>
+[INITIALIZATION][SERVER][INFO] Registered food stats for <galacticraftcore:food:2>
+[INITIALIZATION][SERVER][INFO] Registered food stats for <galacticraftcore:food:3>
+[INITIALIZATION][SERVER][INFO] Registered food stats for <galacticraftcore:food:9>
+[INITIALIZATION][SERVER][INFO] Registered size and weight for <galacticraftplanets:astro_miner>
+[INITIALIZATION][SERVER][INFO] Registered size and weight for <galacticraftplanets:rocket_t2:*>
+[INITIALIZATION][SERVER][INFO] Registered size and weight for <galacticraftcore:buggy:*>
+[INITIALIZATION][SERVER][INFO] Registered size and weight for <galacticraftcore:rocket_t1:*>
+[INITIALIZATION][SERVER][INFO] Registered size and weight for <galacticraftplanets:rocket_t2:*>
+[INITIALIZATION][SERVER][INFO] Registered size and weight for <galacticraftplanets:rocket_t3:*>
+[INITIALIZATION][SERVER][INFO] Registered size and weight for <extraplanets:venus_rover:*>
+[INITIALIZATION][SERVER][INFO] Registered size and weight for <extraplanets:mars_rover:*>
+[INITIALIZATION][SERVER][INFO] Registered size and weight for <extraplanets:item_tier4_rocket:*>
+[INITIALIZATION][SERVER][INFO] Registered size and weight for <extraplanets:item_tier5_rocket:*>
+[INITIALIZATION][SERVER][INFO] Registered size and weight for <extraplanets:item_tier6_rocket:*>
+[INITIALIZATION][SERVER][INFO] Registered size and weight for <extraplanets:item_tier7_rocket:*>
+[INITIALIZATION][SERVER][INFO] Registered size and weight for <extraplanets:item_tier8_rocket:*>
+[INITIALIZATION][SERVER][INFO] Registered size and weight for <extraplanets:item_tier9_rocket:*>
+[INITIALIZATION][SERVER][INFO] Registered size and weight for <extraplanets:item_tier10_rocket:*>
+[INITIALIZATION][SERVER][INFO] Registered size and weight for <extraplanets:item_tier10_electric_rocket:*>
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: firmalife/recipes.zs}
+[INITIALIZATION][SERVER][INFO] Adding Drying recipe crafttweaker:firmalife/fertilizer
+[INITIALIZATION][SERVER][INFO] Adding Drying recipe crafttweaker:firmalife/salt
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Greenhouse Door
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Greenhouse Wall
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Greenhouse Roof
+[INITIALIZATION][SERVER][INFO] Adding barrel recipe crafttweaker:firmalife/treated_lumber
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: gregtech/recipes.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: horsepower/recipes.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: tfc/recipes.zs}
+[INITIALIZATION][SERVER][INFO] Registered metal item capability for <tfc:metal/bucket/red_steel>
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Copper Credit
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Gold Credit
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Silver Credit
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Cupronickel Credit
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Copper Sword Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bismuth Bronze Sword Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Bronze Sword Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bronze Sword Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron Sword Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel Sword Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel Sword Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Blue Steel Sword Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel Sword Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Copper Pickaxe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bismuth Bronze Pickaxe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Bronze Pickaxe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bronze Pickaxe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron Pickaxe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel Pickaxe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel Pickaxe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Blue Steel Pickaxe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel Pickaxe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Copper Axe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bismuth Bronze Axe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Bronze Axe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bronze Axe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron Axe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel Axe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel Axe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Blue Steel Axe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel Axe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Copper Shovel Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bismuth Bronze Shovel Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Bronze Shovel Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bronze Shovel Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron Shovel Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel Shovel Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel Shovel Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Blue Steel Shovel Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel Shovel Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Copper Hoe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bismuth Bronze Hoe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Bronze Hoe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bronze Hoe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron Hoe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel Hoe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel Hoe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Blue Steel Hoe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel Hoe Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Copper Saw Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bismuth Bronze Saw Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Bronze Saw Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bronze Saw Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron Saw Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel Saw Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel Saw Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Blue Steel Saw Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel Saw Blade
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Copper Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bismuth Bronze Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Bronze Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bronze Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Blue Steel Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Copper
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bismuth Bronze
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Bronze
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bronze
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Blue Steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Copper
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bismuth Bronze
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Bronze
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bronze
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Blue Steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Copper File Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bronze File Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bismuth Bronze File Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Bronze File Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron File Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel File Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel File Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel File Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Blue Steel File Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Copper
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bronze
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bismuth Bronze
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Bronze
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Blue Steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Copper
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bronze
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bismuth Bronze
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Bronze
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Blue Steel
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/shears/copper
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/shears/bronze
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/shears/bismuth_bronze
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/shears/black_bronze
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/shears/wrought_iron
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/shears/steel
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/shears/black_steel
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/shears/red_steel
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/shears/blue_steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bismuth Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bismuth Bronze Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Bronze Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Brass Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bronze Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Copper Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Gold Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Lead Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Nickel Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Rose Gold Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Silver Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Tin Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Zinc Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Sterling Silver Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Platinum Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Blue Steel Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel Plate
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/bismuth
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/bismuth_bronze
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/black_bronze
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/brass
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/bronze
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/copper
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/gold
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/lead
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/nickel
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/rose_gold
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/silver
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/tin
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/zinc
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/sterling_silver
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/wrought_iron
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/steel
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/platinum
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/black_steel
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/blue_steel
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/double_plate/red_steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for High Carbon Steel Ingot
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/high_carbon_black_steel
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/high_carbon_red_steel
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/high_carbon_blue_steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel Ingot
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel Ingot
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel Ingot
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Blue Steel Ingot
+[INITIALIZATION][SERVER][INFO] Adding quern recipe crafttweaker:tfc/quern_mica_to_kaolinite
+[INITIALIZATION][SERVER][INFO] Adding quern recipe crafttweaker:tfc/quern_graphite_to_graphite
+[INITIALIZATION][SERVER][INFO] Adding quern recipe crafttweaker:tfc/quern_saltrock_to_salt
+[INITIALIZATION][SERVER][INFO] Adding welding recipe minecraft:tfc/blast_furnace_cladding
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel Bucket
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron Grill
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Iron Door
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Iron Bars
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Iron Bars
+[INITIALIZATION][SERVER][INFO] Adding barrel recipe crafttweaker:tfc/rum_fluid.rum
+[INITIALIZATION][SERVER][INFO] Adding barrel recipe crafttweaker:tfc/sticky_resin
+[INITIALIZATION][SERVER][INFO] Adding barrel recipe crafttweaker:tfc/alabaster
+[INITIALIZATION][SERVER][INFO] Adding quern recipe crafttweaker:tfc/flux_rock_to_flux
+[INITIALIZATION][SERVER][INFO] Adding leather knapping recipe crafttweaker:tfc/lead
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: tfcflorae/recipes.zs}
+[INITIALIZATION][SERVER][INFO] Adding barrel recipe crafttweaker:tfcflorae/olive_oil_water_to_olive_oil_0_fluid.olive_oil
+[INITIALIZATION][SERVER][INFO] Adding barrel recipe crafttweaker:tfcflorae/olive_oil_water_to_olive_oil_1_fluid.olive_oil
+[INITIALIZATION][SERVER][INFO] Adding barrel recipe crafttweaker:tfcflorae/olive_oil_water_to_olive_oil_2_fluid.olive_oil
+[INITIALIZATION][SERVER][INFO] Adding barrel recipe crafttweaker:tfcflorae/olive_oil_water_to_olive_oil_3_fluid.olive_oil
+[INITIALIZATION][SERVER][INFO] Adding barrel recipe crafttweaker:tfcflorae/olive_oil_water_to_olive_oil_4_fluid.olive_oil
+[INITIALIZATION][SERVER][INFO] Adding barrel recipe crafttweaker:tfcflorae/olive_oil_water_to_olive_oil_5_fluid.olive_oil
+[INITIALIZATION][SERVER][INFO] Adding barrel recipe crafttweaker:tfcflorae/orange_juice_to_orange_vine_fluid.orange_wine
+[INITIALIZATION][SERVER][INFO] Adding Drying recipe crafttweaker:tfcflorae/drying/0
+[INITIALIZATION][SERVER][INFO] Adding Drying recipe crafttweaker:tfcflorae/drying/1
+[INITIALIZATION][SERVER][INFO] Adding Drying recipe crafttweaker:tfcflorae/drying/2
+[INITIALIZATION][SERVER][INFO] Adding Drying recipe crafttweaker:tfcflorae/drying/3
+[INITIALIZATION][SERVER][INFO] Adding Drying recipe crafttweaker:tfcflorae/drying/4
+[INITIALIZATION][SERVER][INFO] Adding Drying recipe crafttweaker:tfcflorae/drying/5
+[INITIALIZATION][SERVER][INFO] Adding Drying recipe crafttweaker:tfcflorae/drying/6
+[INITIALIZATION][SERVER][INFO] Adding Drying recipe crafttweaker:tfcflorae/drying/7
+[INITIALIZATION][SERVER][INFO] Adding Drying recipe crafttweaker:tfcflorae/drying/8
+[INITIALIZATION][SERVER][INFO] Adding Drying recipe crafttweaker:tfcflorae/drying/9
+[INITIALIZATION][SERVER][INFO] Adding Drying recipe crafttweaker:tfcflorae/drying/10
+[INITIALIZATION][SERVER][INFO] Adding knapping recipe tfcflorae:tfcflorae/flint/head_knife_1
+[INITIALIZATION][SERVER][INFO] Adding knapping recipe tfcflorae:tfcflorae/flint/head_knife_2
+[INITIALIZATION][SERVER][INFO] Adding knapping recipe tfcflorae:tfcflorae/flint/head_knife_3
+[INITIALIZATION][SERVER][INFO] Adding knapping recipe tfcflorae:tfcflorae/flint/head_shovel
+[INITIALIZATION][SERVER][INFO] Adding knapping recipe tfcflorae:tfcflorae/flint/head_hoe
+[INITIALIZATION][SERVER][INFO] Adding knapping recipe tfcflorae:tfcflorae/flint/head_hoe_2
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: tfctech/recipes.zs}
+[INITIALIZATION][SERVER][INFO] Adding wire drawing recipe for 1x Copper Wire
+[INITIALIZATION][SERVER][INFO] Adding wire drawing recipe for 1x Gold Wire
+[INITIALIZATION][SERVER][INFO] Adding wire drawing recipe for 1x Lead Wire
+[INITIALIZATION][SERVER][INFO] Adding wire drawing recipe for 1x Nickel Wire
+[INITIALIZATION][SERVER][INFO] Adding wire drawing recipe for 1x Silver Wire
+[INITIALIZATION][SERVER][INFO] Adding wire drawing recipe for 1x Tin Wire
+[INITIALIZATION][SERVER][INFO] Adding wire drawing recipe for 1x Steel Wire
+[INITIALIZATION][SERVER][INFO] Adding wire drawing recipe for 1x Platinum Wire
+[INITIALIZATION][SERVER][INFO] Adding wire drawing recipe for 1x Black Steel Wire
+[INITIALIZATION][SERVER][INFO] Adding welding recipe tfc:tfg_gear_bismuth
+[INITIALIZATION][SERVER][INFO] Adding welding recipe tfc:tfg_gear_black_bronze
+[INITIALIZATION][SERVER][INFO] Adding welding recipe tfc:tfg_gear_bronze
+[INITIALIZATION][SERVER][INFO] Adding welding recipe tfc:tfg_gear_nickel
+[INITIALIZATION][SERVER][INFO] Adding welding recipe tfc:tfg_gear_zinc
+[INITIALIZATION][SERVER][INFO] Adding welding recipe tfc:tfg_gear_wrought_iron
+[INITIALIZATION][SERVER][INFO] Adding welding recipe tfc:tfg_gear_steel
+[INITIALIZATION][SERVER][INFO] Adding welding recipe tfc:tfg_gear_black_steel
+[INITIALIZATION][SERVER][INFO] Adding welding recipe tfc:tfg_gear_blue_steel
+[INITIALIZATION][SERVER][INFO] Adding welding recipe tfc:tfg_gear_red_steel
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Brass Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Bronze Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Copper Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Gold Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Lead Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Rose Gold Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Silver Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Tin Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Bismuth Bronze Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Black Bronze Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Steel Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Wrought Iron Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Sterling Silver Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Red Steel Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Blue Steel Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Black Steel Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Platinum Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Nickel Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Bismuth Rod
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Long Zinc Rod
+[INITIALIZATION][SERVER][INFO] Adding barrel recipe tfg:tfctech/rubber_mix
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron Draw Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel Draw Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel Draw Plate
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron Bowl Mount
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron Blowpipe
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel Blowpipe
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel Blowpipe
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Blue Steel Blowpipe
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel Blowpipe
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: tfcthings/recipes.zs}
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Metal Bracing
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Metal Bracing
+[INITIALIZATION][SERVER][INFO] Removing anvil recipe tfcthings:bear_trap_half
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bear Trap Half
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Heavy Sling Ammo
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Heavy Sling Ammo
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bismuth Bronze Prospectors Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Bronze Prospectors Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Bronze Prospectors Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Copper Prospectors Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Wrought Iron Prospectors Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Steel Prospectors Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Black Steel Prospectors Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Blue Steel Prospectors Hammer Head
+[INITIALIZATION][SERVER][INFO] Adding anvil recipe for Red Steel Prospectors Hammer Head
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 732ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <gregtech:stone_smooth:3>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <gregtech:stone_smooth:3>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <gregtech:stone_polished:3>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <gregtech:stone_polished:3>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <gregtech:stone_smooth:2>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <gregtech:stone_smooth:2>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <gregtech:stone_polished:2>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <gregtech:stone_polished:2>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <minecraft:bread>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <minecraft:bread>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <tfctech:ceramics/unfired/sleeve>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <tfctech:ceramics/unfired/rackwheel_piece>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <tfctech:ceramics/unfired/glass_block>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <tfctech:ceramics/unfired/glass_pane>
+[POSTINITIALIZATION][SERVER][INFO] Removing grindstone recipes for <tfc:powder/flux> * 4
+[POSTINITIALIZATION][SERVER][INFO] Removing grindstone recipes for <minecraft:redstone> * 8
+[POSTINITIALIZATION][SERVER][INFO] Removing grindstone recipes for <tfc:powder/fertilizer> * 8
+[POSTINITIALIZATION][SERVER][INFO] Removing grindstone recipes for <minecraft:glowstone_dust> * 8
+[POSTINITIALIZATION][SERVER][INFO] Removing grindstone recipes for <tfc:powder/kaolinite> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing grindstone recipes for <tfc:powder/graphite> * 6
+[POSTINITIALIZATION][SERVER][INFO] Removing grindstone recipes for <tfc:powder/sulfur> * 8
+[POSTINITIALIZATION][SERVER][INFO] Removing grindstone recipes for <tfc:powder/lapis_lazuli> * 8
+[POSTINITIALIZATION][SERVER][INFO] Removing grindstone recipes for <tfc:powder/charcoal> * 8
+[POSTINITIALIZATION][SERVER][INFO] Removing grindstone recipes for <tfc:powder/salt>
+[POSTINITIALIZATION][SERVER][INFO] Removing grindstone recipes for <tfc:powder/saltpeter>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/acacia>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/african_padauk>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/alder>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/angelim>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/ash>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/aspen>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/bald_cypress>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/baobab>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/beech>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/birch>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/black_walnut>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/blackwood>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/box>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/brazilwood>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/butternut>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/chestnut>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/cocobolo>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/cypress>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/douglas_fir>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/ebony>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/european_oak>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/fever>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/fruitwood>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/ginkgo>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/greenheart>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/hawthorn>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/hazel>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/hemlock>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/hevea>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/hickory>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/holly>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/hornbeam>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/ipe>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/iroko>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/ironwood>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/jacaranda>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/juniper>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/kapok>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/kauri>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/larch>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/limba>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/locust>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/logwood>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/maclura>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/mahoe>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/mahogany>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/mangrove>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/maple>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/marblewood>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/messmate>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/mountain_ash>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/nordmann_fir>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/norway_spruce>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/oak>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/palm>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/pine>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/pink_cherry>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/pink_ivory>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/poplar>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/purpleheart>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/red_cedar>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/red_elm>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/redwood>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/rosewood>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/rowan>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/rubber_fig>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/sequoia>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/spruce>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/sweetgum>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/sycamore>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/syzygium>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/teak>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/walnut>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/wenge>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/white_cedar>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/white_cherry>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/white_elm>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/whitebeam>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/willow>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/yellow_meranti>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/yew>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/zebrawood>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfcflorae:wood/log/joshua_tree>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfcflorae:wood/pole/arrow_bamboo>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfcflorae:wood/pole/black_bamboo>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfcflorae:wood/pole/blue_bamboo>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfcflorae:wood/pole/dragon_bamboo>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfcflorae:wood/pole/golden_bamboo>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfcflorae:wood/pole/narrow_leaf_bamboo>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfcflorae:wood/pole/red_bamboo>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfcflorae:wood/pole/temple_bamboo>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfcflorae:wood/pole/thorny_bamboo>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfcflorae:wood/pole/timber_bamboo>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfcflorae:wood/pole/tinwa_bamboo>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfcflorae:wood/pole/weavers_bamboo>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <firmalife:cinnamon_pole>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <firmalife:cocoa_pole>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <firmalife:banana_pole>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <firmalife:cherry_pole>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <firmalife:green_apple_pole>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <firmalife:lemon_pole>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <firmalife:olive_pole>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <firmalife:orange_pole>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <firmalife:peach_pole>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <firmalife:plum_pole>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <firmalife:red_apple_pole>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfcflorae:wood/fruit_tree/pole/cassia_cinnamon>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfcflorae:wood/fruit_tree/pole/ceylon_cinnamon>
+[POSTINITIALIZATION][SERVER][INFO] Adding chopping recipe for <tfc:wood/log/eucalyptus>
+[POSTINITIALIZATION][SERVER][INFO] Adding grindstone recipe for <tfc:food/soybean>
+[POSTINITIALIZATION][SERVER][INFO] Adding grindstone recipe for <ore:rockFlux>
+[POSTINITIALIZATION][SERVER][INFO] Adding grindstone recipe for <gregtech:meta_dust:386>
+[POSTINITIALIZATION][SERVER][INFO] Adding grindstone recipe for <gregtech:meta_dust:341>
+[POSTINITIALIZATION][SERVER][INFO] Adding grindstone recipe for <tfc:rock/rocksalt>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/snow_berry>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/raspberry>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/gooseberry>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/elderberry>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/cranberry>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/cloud_berry>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/bunch_berry>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/blueberry>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/blackberry>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfcflorae:food/green_cayenne_pepper>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/banana>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/lemon>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfcflorae:food/juniper>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/cherry>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfcflorae:crop/product/agave>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/wintergreen_berry>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/strawberry>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:plants/barrel_cactus>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfcflorae:food/purple_grape>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/plum>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/peach>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <tfc:food/orange>
+[POSTINITIALIZATION][SERVER][INFO] Adding press recipe for <ore:apple>
